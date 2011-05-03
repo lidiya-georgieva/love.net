@@ -1,0 +1,266 @@
+body
+{
+   background-image:url('background1.jpg');
+}
+
+ul.navbar
+{
+   list-style-type:none; margin-left:15px;;
+}
+
+a.A:link,a.A:visited
+{
+    border : 2px solid #b1292d;
+	border-radius : 5px;
+	-moz-border-radius:5px; /* Firefox 3.6 and earlier */
+	-webkit-border-radius:5px; /* Safari */
+	-moz-box-shadow:1px 1px 1px #BFBFBF; /* Firefox 3.6 and earlier */
+	-webkit-box-shadow:1px 1px 1px #BFBFBF; /* Safari */
+	box-shadow : 1px 1px 1px #BFBFBF;
+	color : #cc0000;
+    padding : 15px 46px;
+	text-decoration : none;
+    text-transform : uppercase;  
+}
+
+a:hover,a:active,.text:hover,.text:active
+{
+     background-color:#cccccc;
+}
+
+li
+{
+   display : inline;
+   float : left;
+}
+
+.container
+{
+    background-image : url('header.jpg');
+	background-repeat : repeat-x;
+    background-color : #ffeeef;	
+    border : 2px solid #b1292d;
+	border-radius : 5px;
+	-moz-border-radius:5px; /* Firefox 3.6 and earlier */
+	-webkit-border-radius:5px; /* Safari */
+	-moz-box-shadow:1px 1px 1px #BFBFBF; /* Firefox 3.6 and earlier */
+	-webkit-box-shadow:1px 1px 1px #BFBFBF; /* Safari */
+	box-shadow : 1px 1px 1px #BFBFBF;
+	margin : auto;
+	overflow : hidden;
+	padding : 20px;
+	width : 900px;
+}
+
+.content
+{
+    background-image:url('love_notebook3.jpg');
+    background-repeat:no-repeat;
+    border : 2px solid #b1292d;
+	border-radius : 5px;
+	-moz-border-radius:5px; /* Firefox 3.6 and earlier */
+	-webkit-border-radius:5px; /* Safari */
+	-moz-box-shadow:1px 1px 1px #BFBFBF; /* Firefox 3.6 and earlier */
+	-webkit-box-shadow:1px 1px 1px #BFBFBF; /* Safari */
+	box-shadow : 1px 1px 1px #BFBFBF;
+   float : left;
+    margin-top : 70px;
+  margin-left : 55px;
+	height : 350px;
+    width : 500px;
+}
+
+.aside
+{
+    background-image:url('aside.jpg');
+	border : 2px solid #b1292d;
+	border-radius : 5px;
+	-moz-border-radius:5px; /* Firefox 3.6 and earlier */
+	-webkit-border-radius:5px; /* Safari */
+	-moz-box-shadow:1px 1px 1px #BFBFBF; /* Firefox 3.6 and earlier */
+	-webkit-box-shadow:1px 1px 1px #BFBFBF; /* Safari */
+	box-shadow : 1px 1px 1px #BFBFBF;
+    float:left;
+	margin-top:70px;
+	margin-left:30px;
+	width:250px;
+	height:350px;
+}
+
+.footer
+{
+    background-color:white;
+   border : 2px solid #b1292d;
+	border-radius : 5px;
+	-moz-border-radius:5px; /* Firefox 3.6 and earlier */
+	-webkit-border-radius:5px; /* Safari */
+	-moz-box-shadow:1px 1px 1px #BFBFBF; /* Firefox 3.6 and earlier */
+	-webkit-box-shadow:1px 1px 1px #BFBFBF; /* Safari */
+	box-shadow : 1px 1px 1px #BFBFBF;
+	float:left;
+	margin-top:50px;
+    margin-left:30px;
+	padding:20px 10px;
+    width:780px;
+}
+
+.conclusion
+{
+    background-image:url('forever.jpg');
+	background-repeat:no-repeat;
+	border : 2px solid #b1292d;
+	border-radius : 5px;
+	-moz-border-radius:5px; /* Firefox 3.6 and earlier */
+	-webkit-border-radius:5px; /* Safari */
+	-moz-box-shadow:1px 1px 1px #BFBFBF; /* Firefox 3.6 and earlier */
+	-webkit-box-shadow:1px 1px 1px #BFBFBF; /* Safari */
+	box-shadow : 1px 1px 1px #BFBFBF;
+    float:left;
+    margin-top:70px;
+	margin-left:55px;
+	width:784px;
+    height:350px;	
+}
+.register
+{
+   background-image:url('reg.jpg');
+   background-repeat:no-repeat;
+   border : 2px solid #b1292d;
+	border-radius : 5px;
+	-moz-border-radius:5px; /* Firefox 3.6 and earlier */
+	-webkit-border-radius:5px; /* Safari */
+	-moz-box-shadow:1px 1px 1px #BFBFBF; /* Firefox 3.6 and earlier */
+	-webkit-box-shadow:1px 1px 1px #BFBFBF; /* Safari */
+	box-shadow : 1px 1px 1px #BFBFBF;
+    float:left;
+    margin-top:70px;
+	margin-left:55px;
+	margin-right:-33px;
+	width:380px;
+    height:350px;	
+}
+.submit_button
+{
+   border : 2px solid #b1292d;
+	border-radius : 5px;
+	-moz-border-radius:5px; /* Firefox 3.6 and earlier */
+	-webkit-border-radius:5px; /* Safari */
+	-moz-box-shadow:1px 1px 1px #BFBFBF; /* Firefox 3.6 and earlier */
+	-webkit-box-shadow:1px 1px 1px #BFBFBF; /* Safari */
+	box-shadow : 1px 1px 1px #BFBFBF;
+	margin-top:20px;
+	margin-left:30px;
+}
+.login
+{
+   margin-top:30px;
+   margin-left:240px;
+   padding-bottom:30px;
+
+}
+.login_button
+{	
+    border : 2px solid #b1292d;
+	border-radius : 5px;
+	-moz-border-radius:5px; /* Firefox 3.6 and earlier */
+	-webkit-border-radius:5px; /* Safari */
+	-moz-box-shadow:1px 1px 1px #BFBFBF; /* Firefox 3.6 and earlier */
+	-webkit-box-shadow:1px 1px 1px #BFBFBF; /* Safari */
+	box-shadow : 1px 1px 1px #BFBFBF;
+	margin-left:390px;
+	margin-top:-27px;
+}
+.register_button
+{	
+    border : 2px solid #b1292d;
+	border-radius : 5px;
+	-moz-border-radius:5px; /* Firefox 3.6 and earlier */
+	-webkit-border-radius:5px; /* Safari */
+	-moz-box-shadow:1px 1px 1px #BFBFBF; /* Firefox 3.6 and earlier */
+	-webkit-box-shadow:1px 1px 1px #BFBFBF; /* Safari */
+	box-shadow : 1px 1px 1px #BFBFBF;
+	margin-top:-27px;
+	margin-left:490px;
+	
+}
+.logout_button
+{
+   border : 2px solid #b1292d;
+	border-radius : 5px;
+	-moz-border-radius:5px; /* Firefox 3.6 and earlier */
+	-webkit-border-radius:5px; /* Safari */
+	-moz-box-shadow:1px 1px 1px #BFBFBF; /* Firefox 3.6 and earlier */
+	-webkit-box-shadow:1px 1px 1px #BFBFBF; /* Safari */
+	box-shadow : 1px 1px 1px #BFBFBF;
+	margin-top:4px;
+	margin-left:732px;
+	margin-bottom:29px;
+}
+.Welcome
+{
+    margin-left:50px;
+	font-weight:bold;
+	font-style:italic;
+	font-size:20px;
+	color:#cc3333;
+}
+.date
+{
+    position:relative;
+	top:-10px;
+    left:750px;
+	color:white;
+	font-weight:bold;
+}
+ .select
+{
+	font-weight : bold;
+    margin-top:110px;
+	margin-left:30px;
+	height:30px;
+	width:100px;
+}
+.text
+{
+	font-weight : bold;
+    margin-top:60px;
+    margin-left:30px;
+	height:25px;
+}
+.text1
+{
+	height:20px;
+	width:130px;
+}
+ span
+{
+    font-weight:bold;
+	margin-left:30px; 
+}
+ 
+.info 
+	{ 
+	 color:white;
+	 font-size:30px;
+	 font-style:italic;
+	}
+.subinfo
+{
+	margin-left:20px;
+    font-style:italic;
+	color:#ffffff;
+}
+.B
+{
+ text-decoration : none;
+ text-transform : uppercase;  
+ font-style:italic;
+ color:#ffffff;
+}
+.the_end
+{
+    margin:10px 320px 0px 10px;
+	text-align:justify;
+    font-size:20px;
+	font-style:italic;
+}
